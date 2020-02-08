@@ -15,6 +15,7 @@ def generatePrimeList(number) :
     return primeList
 number = 100
 print (generatePrimeList(number))
+print (len(generatePrimeList(number)))
 
 
 """

@@ -1,5 +1,5 @@
 import math
-number = 89
+number = 123456789
 start = 1
 factor = []
 loopCount = 0

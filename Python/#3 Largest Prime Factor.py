@@ -9,7 +9,7 @@ def prime(number):
         loop += 1
     return True
 
-number=600851475143
+number = 12
 numberList=[]
 loop=1
 while loop<= math.sqrt(number) :
@@ -23,6 +23,7 @@ while loop<= math.sqrt(number) :
             if(prime(int(number/loop))):
                 numberList.append(int(number/loop))
     loop += 1
+print (f'LoopCount = {loop}')
 print (numberList)
 print (max(numberList))
 
