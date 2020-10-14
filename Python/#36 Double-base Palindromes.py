@@ -21,6 +21,7 @@ for i in range(start,end,2) :
         doubleBasePalList.append(i)
         #print (i,bin(i))
 print ("loopCount=",loopCount)
+print(doubleBasePalList)
 print (sum(doubleBasePalList))
 
 # completed

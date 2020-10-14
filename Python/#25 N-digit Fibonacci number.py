@@ -2,7 +2,7 @@ a = -1
 b = 1
 c = 0
 loopCount = 0
-digitCount = 100000
+digitCount = 1000
 while True :
     c = a + b
     a = b

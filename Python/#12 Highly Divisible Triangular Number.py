@@ -15,7 +15,7 @@ def factors(n):
 
 TriangleNumberSet=[]
 i=0
-n=500
+n=10
 sum=0
 while True:
     i+=1

@@ -8,5 +8,12 @@ def fib(position) :
         b = c 
         fibList.append(c)
     return fibList
+
 position = 10
 print (fib(position)[-1])
+
+
+
+'''
+Find the n'th Fibnocci number .
+'''

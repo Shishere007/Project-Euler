@@ -19,5 +19,10 @@ print ("FactorCount=",len(factor))
 print ("loopCount=",loopCount)
 
 
+
 # completed
+
+
+
 # list all the factors of a number
+
